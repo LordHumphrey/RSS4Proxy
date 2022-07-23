@@ -1,7 +1,7 @@
 # 模糊抓取订阅链接
 - type: webfuzzsub
   options:
-    url: http://[2409:8a30:da:1850::4da]:8080/
+    url: https://paste.gg/p/anonymous/8c27d259fe70499ea78ee00174bc2888/files/a78ed778f1d54c1da8983d07441e55ac/raw
     
 # - type: webfuzzsub
 #   options:
