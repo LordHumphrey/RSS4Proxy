@@ -2,6 +2,10 @@
 - type: webfuzzsub
   options:
     url: http://173.82.108.143:8080/
+    
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/du5/free/master/sub.list
 
 # # 订阅链接
 # - type: subscribe
