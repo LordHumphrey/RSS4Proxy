@@ -1,5 +1,5 @@
 # 模糊抓取订阅链接
-- type: webfuzz
+- type: webfuzzsub
   options:
     url: http://173.82.108.143:8080/
 
